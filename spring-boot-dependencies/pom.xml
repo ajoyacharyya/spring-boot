@@ -304,7 +304,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter-data-rest</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>3.1.10</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
@@ -404,7 +404,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter-security</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>3.1.10</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
