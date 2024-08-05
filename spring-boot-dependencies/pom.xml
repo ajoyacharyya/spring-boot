@@ -84,7 +84,7 @@
 		<httpclient.version>4.5.1</httpclient.version>
 		<httpcore.version>4.4.4</httpcore.version>
 		<infinispan.version>8.0.2.Final</infinispan.version>
-		<jackson.version>2.6.5</jackson.version>
+		<jackson.version>2.15.0</jackson.version>
 		<janino.version>2.7.8</janino.version>
 		<javassist.version>3.18.1-GA</javassist.version> <!-- Same as Hibernate -->
 		<javax-cache.version>1.0.0</javax-cache.version>
@@ -223,7 +223,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>3.2.0</version>
 				<exclusions>
 					<exclusion>
 						<groupId>commons-logging</groupId>
@@ -455,7 +455,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter-web</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>3.2.7</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
