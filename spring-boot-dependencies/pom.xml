@@ -223,7 +223,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>3.2.11</version>
 				<exclusions>
 					<exclusion>
 						<groupId>commons-logging</groupId>
@@ -244,7 +244,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter-aop</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>3.2.11</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
@@ -339,7 +339,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter-jdbc</artifactId>
-				<version>1.4.0.BUILD-SNAPSHOT</version>
+				<version>3.2.11</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
